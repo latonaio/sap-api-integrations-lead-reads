@@ -1,0 +1,28 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-lead-reads/SAP_API_Caller/caller.go#L60",
+	"function": "sap-api-integrations-lead-reads/SAP_API_Caller.(*SAPAPICaller).LeadCollection",
+	"level": "INFO",
+	"message": [
+		{
+			"ObjectID": "00163E0C6CDB1EE79C91E958EAA0CB59",
+			"ParentObjectID": "00163E0C6CDB1EE79C91E62DC290EB53",
+			"LeadID": "25779",
+			"ID": "10",
+			"UUID": "00163E0C-6CDB-1EE7-9C91-E958EAA0CB59",
+			"Description": "DH40MR",
+			"languageCode": "EN",
+			"languageCodeText": "English",
+			"ProductID": "000000000000000000000000000000000000000000000000000010003578",
+			"ProductUUID": "00163E0C-84E2-1EE7-82C6-0ABEE6C28CC1",
+			"ProductName": "DH40MR",
+			"ProductCategoryInternalID": "CUSTOMER-42",
+			"Quantity": "1.00000000000000",
+			"unitCode": "EA",
+			"unitCodeText": "Each",
+			"ProductCategoryDescription": "Machinery and equipment",
+			"EntityLastChangedOn": "2017-07-25T01:44:14+09:00",
+			"ETag": "2020-04-08T02:05:37+09:00"
+		}
+	],
+	"time": "2022-08-10T11:44:08+09:00"
+}
